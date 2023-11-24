@@ -53,7 +53,7 @@ My expertise in Python, SQL, Tableau/Power BI, Excel, and PowerPoint allows me t
 ### Excel Dashboard [NBA Team Performance Dashboard]
 This is a dynamic dashboard which showcases the performance of nba team los angeles lakers through the 2021-2022 season. it provides individual player statistics as well team statistics against opponents throughout the entire season.
 
-## Download Excel File | [Download Excel File](https://github.com/Guru-Darshan/guru-darshan.github.io/raw/207d4680f86b054a3caeeb9dab730f911c4fceba/s4216964_Dashboard.xlsx)
+### [Download Excel File](https://github.com/Guru-Darshan/guru-darshan.github.io/raw/207d4680f86b054a3caeeb9dab730f911c4fceba/s4216964_Dashboard.xlsx)
 
 
 
