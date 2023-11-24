@@ -1,5 +1,50 @@
-title: Guru Darshan
+title: Guru Darshan S.A
 logo: Data_Analyst_Job_Description.jpg
-#description: text below image
-show_downloads: true
+description: "Energetic Data Analyst passionate about turning data into actionable insights."
 theme: jekyll-theme-minimal
+
+# Additional Settings for a Better and More Dynamic Website
+
+# Enable syntax highlighting for code snippets
+highlighter: rouge
+
+# Define the base URL of your site
+baseurl: "/"
+
+# Enable pagination for blog posts or projects
+paginate: 5
+
+# Configure the navigation menu
+nav:
+  - text: Home
+    url: /
+  - text: About
+    url: /about
+  - text: Projects
+    url: /projects
+  - text: Contact
+    url: /contact
+
+# Social media links
+social:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/guru-darshan-s-a-491163254
+  - title: GitHub
+    url: https://github.com/yourusername
+  # Add more social media links as needed
+
+# Footer text
+footer_text: "© 2023 Guru Darshan. All rights reserved."
+
+# Google Analytics tracking code (if you want to track website traffic)
+google_analytics: UA-XXXXXXXXX-X
+
+# Favicon (place your favicon.ico file in the root directory)
+favicon: /favicon.ico
+
+# Custom CSS (if you have additional styles)
+#css: /assets/css/custom.css
+
+# Custom JavaScript (if you have additional scripts)
+#js: /assets/js/custom.js
+
