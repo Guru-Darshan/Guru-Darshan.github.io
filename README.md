@@ -2,28 +2,19 @@
 
 #### Technical Skills: Python, SQL, EXCEL, Tableau / PowerBI, Powerpoint
 
-### Education
-Bachelors in Information Science
-B.M.S College of Engineering (2017-2021)
-
-Masters in Sports Performance Analytics
-University of Gloucestershire (2022-2023)
-
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
+- M.S., Sports Performance Analytics | University Of Gloucestershire (_September 2023_)
+- B.E., Information Science | B.M.S College of Engineering (_September 2021_)
 
 ### Work Experience
 
-**Data Analyst Intern @Ngenux (April-August) - 5 months**
+**Data Analyst Intern @Ngenux Solutions Pvt Ltd  (_April 2023 - August 2023_) - 5 months**
 
-**Sports Performance Analyst @Gloucester City Kings Basketball (September 2022-March 2023) - 7 months**
+**Sports Performance Analyst @Gloucester City Kings Basketball (_September 2022-March 2023_) - 7 months**
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### NBA Recruitment Analysis
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
