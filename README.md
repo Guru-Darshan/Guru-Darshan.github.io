@@ -1,6 +1,8 @@
 # 👨‍💻 Data Analyst
 
-[LinkedIn](https://www.linkedin.com/in/guru-darshan-s-a-491163254) | 📧 (gurudarshan.sa@gmail.com) | 🌐 [Portfolio](https://www.yourportfolio.com)
+---
+
+[LinkedIn](https://www.linkedin.com/in/guru-darshan-s-a-491163254) | 📧 : gurudarshan.sa@gmail.com | 🌐 [Portfolio](https://www.yourportfolio.com)
 
 ## 🚀 Summary
 
@@ -46,5 +48,14 @@ My expertise in Python, SQL, Tableau/Power BI, Excel, and PowerPoint allows me t
 - Played a pivotal role in creating visually appealing performance reports and dashboards using Tableau and Excel, empowering coaches and athletes with data-informed decisions.
 
 ---
+
+## Projects
+
+### Excel Dashboard [NBA Team Performance Dashboard]
+
+
+
+
+### Tableau Dashboard [Player Recruitment Analysis]
 
 
