@@ -1,6 +1,4 @@
 # 👨‍💻 Data Analyst
-{{ site.additional_text }}
-
 ---
 [LinkedIn](https://www.linkedin.com/in/guru-darshan-s-a-491163254) | 📧 : gurudarshan.sa@gmail.com | 🌐 [Portfolio](https://www.yourportfolio.com)
 
