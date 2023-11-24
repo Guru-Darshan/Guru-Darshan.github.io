@@ -1,3 +1,5 @@
 title: Guru Darshan
-logo : /Users/gurudarshan/Downloads/Data_Analyst_Job_Description.jpg
+logo: Data_Analyst_Job_Description.jpg
+#description: text below image
+show_downloads: true
 theme: jekyll-theme-minimal
