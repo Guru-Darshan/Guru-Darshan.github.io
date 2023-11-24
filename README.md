@@ -1,32 +1,42 @@
-# Data Analyst
+# 👨‍💻 Guru Darshan Annamalai Samy
 
-#### Technical Skills: Python, SQL, EXCEL, Tableau / PowerBI, Powerpoint
+[LinkedIn](https://www.linkedin.com/in/guru-darshan-s-a-491163254) | 📧 gurudarshan.sa@gmail.com | 🌐 [Portfolio](https://www.yourportfolio.com)
 
-## Education
-- M.S., Sports Performance Analytics | University Of Gloucestershire (_September 2023_)
-- B.E., Information Science | B.M.S College of Engineering (_September 2021_)
+## 🚀 Summary
 
-### Work Experience
+Enthusiastic and dedicated Data Analyst with a proven track record in data-driven decision-making. I bring 5 months of internship experience as a Data Analyst at Ngenux, specializing in Data Analysis and financial Data visualization. Additionally, I have 7 months of hands-on experience as a Sports Performance Analyst Intern at Gloucester Kings Basketball, contributing to enhanced team performance.
 
-**Data Analyst Intern @Ngenux Solutions Pvt Ltd  (_April 2023 - August 2023_) - 5 months**
+My expertise in Python, SQL, Tableau/Power BI, Excel, and PowerPoint allows me to derive valuable insights from data and present them effectively. Committed to delivering data-driven solutions that add tangible value to organizations.
 
-**Sports Performance Analyst @Gloucester City Kings Basketball (_September 2022-March 2023_) - 7 months**
+## 🎓 Education
 
+- **Master's in Sports Performance Analytics**
+  - *University of Gloucestershire, 2023*
 
-## Projects
-### NBA Recruitment Analysis
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+- **Bachelor's in Computer & Information Science**
+  - *BMS College of Engineering, 2021*
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+## 🛠️ Skills
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- **Languages:** Python, SQL
+- **Tools:** Tableau, Power BI, Excel, PowerPoint
+- **Capabilities:** Data Analysis, Data Visualization, Presentation
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+## 💼 Work Experience
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Data Analyst Intern | Ngenux Solutions Pvt Ltd (Apr 2023 to Aug 2023)
 
-![Bike Study](/assets/img/bike_study.jpeg)
+- Managed ETL processes, enhancing data usability and alignment with project needs.
+- Conducted in-depth data analysis, revealing insights crucial for client decision-making.
+- Utilized a diverse set of data analysis tools to extract valuable information for strategic choices.
+- Designed impactful visualizations, fostering cross-functional collaboration and ensuring data integrity.
 
+### Sports Performance Analyst | Gloucester Kings Basketball (Sep 2022 to Apr 2023)
 
+- Conducted comprehensive video analysis, identifying player strengths, weaknesses, and areas for improvement.
+- Collaborated with coaching staff to collect, process, and analyze performance data, contributing to team success.
+- Played a pivotal role in creating visually appealing performance reports and dashboards using Tableau and Excel, empowering coaches and athletes with data-informed decisions.
 
+---
+
+*Feel free to customize links and styling further. Good luck! 🌟*
