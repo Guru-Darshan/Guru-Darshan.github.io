@@ -1,10 +1,9 @@
 # 👨‍💻 Data Analyst
 
-[LinkedIn](https://www.linkedin.com/in/guru-darshan-s-a-491163254) | 📧 [Email](gurudarshan.sa@gmail.com) | 🌐 [Portfolio](https://www.yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/guru-darshan-s-a-491163254) | 📧 (gurudarshan.sa@gmail.com) | 🌐 [Portfolio](https://www.yourportfolio.com)
 
 ## 🚀 Summary
 
----
 
 Enthusiastic and dedicated Data Analyst with a proven track record in data-driven decision-making. I bring 5 months of internship experience as a Data Analyst at Ngenux, specializing in Data Analysis and financial Data visualization. Additionally, I have 7 months of hands-on experience as a Sports Performance Analyst Intern at Gloucester Kings Basketball, contributing to enhanced team performance.
 
@@ -19,6 +18,7 @@ My expertise in Python, SQL, Tableau/Power BI, Excel, and PowerPoint allows me t
 
 - **Bachelor's in Computer & Information Science**
   - *BMS College of Engineering, 2021*
+    
 
 ## 🛠️ Skills
 
@@ -26,7 +26,7 @@ My expertise in Python, SQL, Tableau/Power BI, Excel, and PowerPoint allows me t
 - **Tools:** Tableau, Power BI, Excel, PowerPoint
 - **Capabilities:** Data Engineering, Data Analysis, Data Visualization, Project Presentation
   
-  ---
+
 
 ## 💼 Work Experience
 
