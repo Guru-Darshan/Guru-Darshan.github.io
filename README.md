@@ -1,5 +1,3 @@
-# guru-darshan.github.io
-
 # Data Scientist
 2
 ### Education
