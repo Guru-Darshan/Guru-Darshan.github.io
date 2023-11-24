@@ -21,16 +21,13 @@ My expertise in Python, SQL, Tableau/Power BI, Excel, and PowerPoint allows me t
   - *BMS College of Engineering, 2021*
     
 
-
 ## 🛠️ Skills
 
 - **Languages:** Python, SQL
 - **Tools:** Tableau, Power BI, Excel, PowerPoint
 - **Capabilities:** Data Engineering, Data Analysis, Data Visualization, Project Presentation
-  {% include_relative _includes/skills.md %}
+ 
   
-
-
 ## 💼 Work Experience
 
 ### Data Analyst Intern        | Ngenux Solutions Pvt Ltd 
