@@ -60,3 +60,9 @@ This is a dynamic dashboard which showcases the performance of nba team los ange
 ### Tableau Dashboard [Player Recruitment Analysis]
 
 
+
+### Python Analysis [Hotel_Booking_Analysis]
+This a a prject showcasing Data analysis of hotel data with the help of python. Date cleaning was performed and manipulated to extract insights and provide visualisation of the findings.
+[Link to Jupyter Notebook](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/Hotel_Booking_Analysis.ipynb)
+
+
