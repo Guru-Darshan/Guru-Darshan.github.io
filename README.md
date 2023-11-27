@@ -1,6 +1,6 @@
 # 👨‍💻 Data Analyst
 ---
-[LinkedIn](https://www.linkedin.com/in/guru-darshan-s-a-491163254) | 📧 : gurudarshan.sa@gmail.com | 🌐 [Portfolio Projects](Projects.md)
+[LinkedIn](https://www.linkedin.com/in/guru-darshan-s-a-491163254) | 📧 : gurudarshan.sa@gmail.com | 🌐 [Portfolio Projects](projects.md)
 
 ## 🚀 Summary
 
