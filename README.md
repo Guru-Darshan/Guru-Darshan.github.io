@@ -2,7 +2,9 @@
 ---
 [LinkedIn](https://www.linkedin.com/in/guru-darshan-s-a-491163254) | 📧 : gurudarshan.sa@gmail.com | 🌐 [Portfolio Projects](projects.md)
 
-## 🚀 Summary
+##[PORTFOLIO PROJECTS](projects.md)
+
+## 🚀 Summary  
 
 
 Enthusiastic and dedicated Data Analyst with a proven track record in data-driven decision-making. I bring 5 months of internship experience as a Data Analyst at Ngenux, specializing in Data Analysis and financial Data visualization. Additionally, I have 7 months of hands-on experience as a Sports Performance Analyst Intern at Gloucester Kings Basketball, contributing to enhanced team performance.
