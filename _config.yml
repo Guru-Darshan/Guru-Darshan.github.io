@@ -2,3 +2,12 @@ title: "Guru Darshan S.A"
 logo: "images/Data_Analyst_Job_Description.jpg"
 description: "Skills - Languages : Python and SQL |       Tools: Tableau, Power BI, Excel, PowerPoint |"
 theme: "jekyll-theme-minimal"
+menu:
+  - title: "Work Experience"
+    link: "work_experience.md"
+  - title: "Projects"
+    link: "projects.md"
+  - title: "Excel"
+    link: "ExcelProject.md"
+
+
