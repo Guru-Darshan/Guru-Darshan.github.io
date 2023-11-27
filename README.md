@@ -2,7 +2,7 @@
 ---
 [LinkedIn](https://www.linkedin.com/in/guru-darshan-s-a-491163254) | 📧 : gurudarshan.sa@gmail.com | 🌐 [Portfolio Projects](projects.md)
 
-##[PORTFOLIO PROJECTS](projects.md)
+## [PORTFOLIO PROJECTS](projects.md)
 
 ## 🚀 Summary  
 
