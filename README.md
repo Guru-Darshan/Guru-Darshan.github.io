@@ -69,6 +69,8 @@ In this project, we analyse airbnb renting in the city of london. Data explorati
 
 [Link to Jupyter Notebook](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb_listings.ipynb)
 
+[Link to Tableau Visualisation](https://public.tableau.com/views/LondonAirbnb_17017120366450/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
 
 
 
