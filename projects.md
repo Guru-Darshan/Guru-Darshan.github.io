@@ -17,4 +17,6 @@ This a a project showcasing Data analysis of Hotel data with the help of python.
 ### [Python & Tableau - London Airbnb Analysis ](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb_listings.ipynb)
 In this project, we analyse airbnb renting in the city of london. Data exploration and data cleaning is done using python and information is extracted from the files and made ready to be analysed . [See more...](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb_listings.ipynb)
 
+[Link to Tableau Visualisation](https://public.tableau.com/views/LondonAirbnb_17017120366450/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
 [Link to Jupyter Notebook](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb_listings.ipynb)
