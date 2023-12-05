@@ -9,7 +9,7 @@ Dynamic referencing techniques were employed to create detailed player profiles,
 
 
 
-### [Python Analysis - Hotel_Booking_Analysis](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/Hotel_Booking_Analysis.ipynb)
+### [Python Analysis - Hotel_Booking_Analysis](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/HotelBooking_Analysis.ipynb)
 "I spearheaded a captivating data analysis project focused on hotel data, utilizing Python and Jupyter Notebooks to unravel meaningful insights. The project commenced with meticulous data cleaning, involving the identification and removal of duplicate rows, as well as filtering out invalid entries. Through manipulation techniques, the data was refined to extract pertinent insights, setting the stage for compelling visualizations.
 
 The analysis incorporated statistical techniques to identify outliers within the dataset. Addressing diverse questions, such as booking trends by market segment and daily total guest arrivals, I employed a variety of visualizations tailored to convey only the essential information. This project showcased my proficiency in leveraging key Python packages, including NumPy, Pandas, Seaborn, and Matplotlib, to bring the data to life and derive valuable conclusions."
