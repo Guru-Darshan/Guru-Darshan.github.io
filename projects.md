@@ -1,7 +1,9 @@
 ## Projects
 
-### [Excel Dashboard - NBA Team Performance Dashboard](ExcelProject.md) 
-This is a dynamic dashboard which showcases the performance of nba team los angeles lakers through the 2021-2022 season. it provides individual player statistics as well team statistics against opponents throughout the entire season. [See more...](ExcelProject.md)
+### Excel Dashboard - NBA Team Performance Dashboard
+Embarking on a dynamic dashboard project, I meticulously curated a comprehensive overview of the NBA team, Los Angeles Lakers, throughout the 2021-2022 season. This interactive dashboard not only features individual player statistics but also presents team performance metrics against various opponents over the entire season. Leveraging data extracted from Basketball Reference, I integrated box score data and advanced statistics, offering an in-depth analysis of player and team dynamics.
+
+Dynamic referencing techniques were employed to create detailed player profiles, showcasing their performance in the regular season compared to the playoffs, all while aligning with team standards. The dashboard, constructed using slicers and pivot tables, provides a holistic view of the team's performance against every NBA team during the 2021-2022 season. This project underscores my proficiency in data visualization and analytics, offering a compelling narrative of the Lakers' journey throughout the season
 
 ### [Download Excel File](https://github.com/Guru-Darshan/guru-darshan.github.io/raw/207d4680f86b054a3caeeb9dab730f911c4fceba/s4216964_Dashboard.xlsx)
 
