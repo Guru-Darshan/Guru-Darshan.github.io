@@ -57,7 +57,7 @@ This is a dynamic dashboard which showcases the performance of nba team los ange
 
 
 
-### [Python Analysis - Hotel_Booking_Analysis](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/HotelBooking_Analysis.ipynb)
+### [Python Analysis - HotelBooking_Analysis](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/HotelBooking_Analysis.ipynb)
 This a a project showcasing Data analysis of Hotel data with the help of python. Date cleaning was performed and manipulated to extract insights and provide visualisation of the findings.Various packages like numpy,pandas,seaborn and matplotlib was used. [See more...](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/HotelBooking_Analysis.ipynb)
 
 [Link to Jupyter Notebook](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/HotelBooking_Analysis.ipynb)
