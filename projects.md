@@ -19,6 +19,11 @@ The analysis incorporated statistical techniques to identify outliers within the
 
 
 ### [Python & Tableau - London Airbnb Analysis ](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb.ipynb)
+
+[Link to Jupyter Notebook](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb.ipynb)
+
+[Link to Tableau Visualisation](https://public.tableau.com/views/LondonAirbnb_17017120366450/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
 "In my latest project, I delved into the intricate world of Airbnb rentals in the vibrant city of London. Leveraging Python, I executed a meticulous analysis, including the strategic splitting of data columns to extract additional insights. String cleaning operations played a pivotal role in preparing the data for scrutiny. Rigorous filtering was employed to eliminate invalid rows and duplicate values, ensuring the dataset's integrity.
 
 The data underwent a systematic reorganization, setting the stage for the next phase of analysis using Tableau. This project exemplifies my proficiency in data preprocessing and cleaning, paving the way for insightful visualizations and a deeper understanding of the Airbnb rental landscape in London.
