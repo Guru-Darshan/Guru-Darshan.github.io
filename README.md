@@ -21,47 +21,47 @@ Proficient in Python, SQL, Tableau/Power BI, Excel, and PowerPoint, I derive val
 
 Join me in exploring the vast landscape of data. Discover how my analytical skills, coupled with a passion for data, contribute to turning raw information into actionable insights that make a real impact.
 
-Let's uncover the stories waiting to be told in the world of data analytics!
+##[Let's uncover the stories waiting to be told in the world of data analytics!](projects.md)
 ---
-## [PORTFOLIO PROJECTS](projects.md)
+### [PORTFOLIO PROJECTS](projects.md)
 ---
 
-## 🎓 Education
+## 💼 Work Experience
 
-- **Master's in Sports Performance Analytics**
-  - *University of Gloucestershire, 2023*
+### Data Analyst Intern        | Ngenux Solutions Pvt Ltd 
+(Apr 2023 to Aug 2023)
 
-- **Bachelor's in Computer & Information Science**
-  - *BMS College of Engineering, 2021*
-    
+During my tenure as a Data Analyst Intern at Ngenux Solutions, I played a vital role in optimizing data processes and delivering valuable insights for well-informed decision-making.
+
+-ETL Process Oversight: Led the management of ETL processes, enhancing data usability and aligning it with project requirements.
+-Thorough Data Analysis: Conducted comprehensive data analysis, uncovering essential insights crucial for client decision-making and strategic planning.
+-Tool Proficiency: Employed a diverse range of data analysis tools to extract valuable information, contributing to the foundation of strategic decision-making.
+-Effective Visualizations: Crafted impactful visualizations that promoted cross-functional collaboration and maintained data integrity across the organization.
+
+My internship experience at Ngenux was marked by a hands-on approach to data analytics, where I actively contributed to improving data processes and extracting actionable   insights.
+
+### Sports Performance Analyst | Gloucester Kings Basketball 
+(Sep 2022 to Apr 2023)
+
+In my position as a Sports Performance Analyst at Gloucester Kings Basketball, I played a key role in elevating team performance through data-driven insights.
+
+-Comprehensive Video Analysis: Conducted in-depth video analysis, identifying player strengths, weaknesses, and areas for improvement to guide targeted training strategies.
+-Collaborative Data Processing: Collaborated closely with coaching staff to gather, process, and analyze performance data, actively contributing to the overall success of the team.
+-Data Visualization: Took a central role in creating visually compelling performance reports and dashboards using Tableau and Excel providing coaches and athletes with actionable insights, fostering continuous improvement.
+
+My tenure at Gloucester Kings Basketball reflects my dedication to utilizing data for performance enhancement and facilitating well-informed decision-making in the realm of sports analytics
+
+---
 
 ## 🛠️ Skills
 
 - **Languages:** Python, SQL
 - **Tools:** Tableau, Power BI, Excel, PowerPoint
 - **Capabilities:** Data Engineering, Data Analysis, Data Visualization, Project Presentation
- 
   
-## 💼 Work Experience
+ ---
 
-### Data Analyst Intern        | Ngenux Solutions Pvt Ltd 
-(Apr 2023 to Aug 2023)
-
-- Managed ETL processes, enhancing data usability and alignment with project needs.
-- Conducted in-depth data analysis, revealing insights crucial for client decision-making.
-- Utilized a diverse set of data analysis tools to extract valuable information for strategic choices.
-- Designed impactful visualizations, fostering cross-functional collaboration and ensuring data integrity.
-
-### Sports Performance Analyst | Gloucester Kings Basketball 
-(Sep 2022 to Apr 2023)
-
-- Conducted comprehensive video analysis, identifying player strengths, weaknesses, and areas for improvement.
-- Collaborated with coaching staff to collect, process, and analyze performance data, contributing to team success.
-- Played a pivotal role in creating visually appealing performance reports and dashboards using Tableau and Excel, empowering coaches and athletes with data-informed decisions.
-
----
-
-## Projects
+## [Projects](projects.md)
 
 ### [Excel Dashboard - NBA Team Performance Dashboard](ExcelProject.md) 
 This is a dynamic dashboard which showcases the performance of nba team los angeles lakers through the 2021-2022 season. it provides individual player statistics as well team statistics against opponents throughout the entire season. [See more...](ExcelProject.md)
@@ -83,7 +83,18 @@ In this project, we analyse airbnb renting in the city of london. Data explorati
 [Link to Jupyter Notebook](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb_listings.ipynb)
 
 [Link to Tableau Visualisation](https://public.tableau.com/views/LondonAirbnb_17017120366450/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link)
+  
 
+---
+
+## 🎓 Education
+
+- **Master's in Sports Performance Analytics**
+  - *University of Gloucestershire, 2023*
+
+- **Bachelor's in Computer & Information Science**
+  - *BMS College of Engineering, 2021*
+    
 
 
 
