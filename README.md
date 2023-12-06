@@ -21,8 +21,9 @@ Proficient in Python, SQL, Tableau/Power BI, Excel, and PowerPoint, I derive val
 
 Join me in exploring the vast landscape of data. Discover how my analytical skills, coupled with a passion for data, contribute to turning raw information into actionable insights that make a real impact.
 
-## [Let's uncover the stories waiting to be told in the world of data analytics!](projects.md)
+
 ---
+## [Let's uncover the stories waiting to be told in the world of data analytics!](projects.md)
 ### [PORTFOLIO PROJECTS](projects.md)
 ---
 
@@ -37,8 +38,6 @@ During my tenure as a Data Analyst Intern at Ngenux Solutions, I played a vital 
 
 -Thorough Data Analysis: Conducted comprehensive data analysis, uncovering essential insights crucial for client decision-making and strategic planning.
 
--Tool Proficiency: Employed a diverse range of data analysis tools to extract valuable information, contributing to the foundation of strategic decision-making.
-
 -Effective Visualizations: Crafted impactful visualizations that promoted cross-functional collaboration and maintained data integrity across the organization.
 
 My internship experience at Ngenux was marked by a hands-on approach to data analytics, where I actively contributed to improving data processes and extracting actionable   insights.
@@ -52,9 +51,7 @@ In my position as a Sports Performance Analyst at Gloucester Kings Basketball, I
 
 -Collaborative Data Processing: Collaborated closely with coaching staff to gather, process, and analyze performance data, actively contributing to the overall success of the team.
 
--Data Visualization: Took a central role in creating visually compelling performance reports and dashboards using Tableau and Excel providing coaches and athletes with actionable insights, fostering continuous improvement.
-
-My tenure at Gloucester Kings Basketball reflects my dedication to utilizing data for performance enhancement and facilitating well-informed decision-making in the realm of sports analytics
+My tenure at Gloucester Kings Basketball reflects my dedication to utilizing data for performance enhancement communicating these insights in a well structured format and facilitating well-informed decision-making in the realm of sports analytics
 
 ---
 
@@ -83,7 +80,7 @@ Embarking on a dynamic dashboard project, I meticulously curated a comprehensive
 
 
 ### [Python & Tableau - London Airbnb Analysis ](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb.ipynb)
-In my latest project, I delved into the intricate world of Airbnb rentals in the vibrant city of London. Leveraging Python, I executed a meticulous analysis, including the strategic splitting of data columns to extract additional insights. String cleaning operations played a pivotal role in preparing the data for scrutiny. [See more...](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb.ipynb)
+In my latest project, I delved into the intricate world of Airbnb rentals in the vibrant city of London. Leveraging Python, I executed a meticulous analysis, including the strategic splitting of data columns to extract additional insights. String cleaning operations played a pivotal role in preparing the data for scrutiny. The data [See more...](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb.ipynb)
 
 [Link to Jupyter Notebook](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb.ipynb)
 
