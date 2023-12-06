@@ -19,12 +19,18 @@ The analysis incorporated statistical techniques to identify outliers within the
 
 
 ### [Python & Tableau - London Airbnb Analysis ](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb.ipynb)
-In this project, we analyse airbnb renting in the city of london. Data exploration and data cleaning is done using python and information is extracted from the files and made ready to be analysed .
+"In my latest project, I delved into the intricate world of Airbnb rentals in the vibrant city of London. Leveraging Python, I executed a meticulous analysis, including the strategic splitting of data columns to extract additional insights. String cleaning operations played a pivotal role in preparing the data for scrutiny. Rigorous filtering was employed to eliminate invalid rows and duplicate values, ensuring the dataset's integrity.
 
+The data underwent a systematic reorganization, setting the stage for the next phase of analysis using Tableau. This project exemplifies my proficiency in data preprocessing and cleaning, paving the way for insightful visualizations and a deeper understanding of the Airbnb rental landscape in London.
 
+As a seamless extension of the previous project, I crafted a dynamic Tableau dashboard dedicated to visualizing London's Airbnb properties. The dashboard incorporates an intuitive map feature, enabling users to selectively explore properties based on their respective neighborhoods. Employing calculated fields, I strategically grouped data elements, enhancing usability and fostering clearer visualizations.
 
-[See more...](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb.ipynb)
+A meticulously designed map provides a detailed overview of property density across London, coupled with insights into pricing variations. This informative display eliminates the need for extra clicks, offering a user-friendly experience. The dashboard includes a curated list of properties within each neighborhood, accompanied by a detailed tab revealing essential information such as size, room/bathroom count, and property ratings.
+
+To enhance user accessibility, various filters were strategically implemented, ensuring a seamless experience while effortlessly accessing pertinent data. This project underscores my proficiency in Tableau, transforming complex datasets into interactive and visually compelling insights for a comprehensive exploration of London's Airbnb landscape."
+
+[Link to Jupyter Notebook](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb.ipynb)
 
 [Link to Tableau Visualisation](https://public.tableau.com/views/LondonAirbnb_17017120366450/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
-[Link to Jupyter Notebook](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb.ipynb)
+
