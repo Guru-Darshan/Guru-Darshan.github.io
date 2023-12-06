@@ -2,15 +2,28 @@
 ---
 [LinkedIn](https://www.linkedin.com/in/guru-darshan-s-a-491163254) | 📧 : gurudarshan.sa@gmail.com | 🌐 [Portfolio Projects](projects.md)
 
-## [PORTFOLIO PROJECTS](projects.md)
 
 ## 🚀 Summary  
 
 
-Enthusiastic and dedicated Data Analyst with a proven track record in data-driven decision-making. I bring 5 months of internship experience as a Data Analyst at Ngenux, specializing in Data Analysis and financial Data visualization. Additionally, I have 7 months of hands-on experience as a Sports Performance Analyst Intern at Gloucester Kings Basketball, contributing to enhanced team performance.
+### Welcome to My Data Analytics Hub
 
-My expertise in Python, SQL, Tableau/Power BI, Excel, and PowerPoint allows me to derive valuable insights from data and present them effectively. Committed to delivering data-driven solutions that add tangible value to organizations.
+Hello! I'm a dedicated Data Analyst with a proven track record in making data-driven decisions. With 5 months of internship experience at Ngenux, specializing in Data Analysis and Data visualization, and 7 months as a Sports Performance Analyst Intern at Gloucester Kings Basketball, I bring a unique blend of skills and perspective.
 
+### Passion for Data:
+I find the world of data fascinating. It's more than just numbers; it's the key to unlocking stories that shape industries, guide strategies, and drive innovation.
+
+### Expertise:
+
+Proficient in Python, SQL, Tableau/Power BI, Excel, and PowerPoint, I derive valuable insights from data and present them effectively. My commitment is to deliver data-driven solutions that add tangible value to organizations.
+
+### Explore with Me:
+
+Join me in exploring the vast landscape of data. Discover how my analytical skills, coupled with a passion for data, contribute to turning raw information into actionable insights that make a real impact.
+
+Let's uncover the stories waiting to be told in the world of data analytics!
+---
+## [PORTFOLIO PROJECTS](projects.md)
 ---
 
 ## 🎓 Education
