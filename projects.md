@@ -17,6 +17,12 @@ The analysis incorporated statistical techniques to identify outliers within the
 [Link to Jupyter Notebook](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/HotelBooking_Analysis.ipynb)
 
 ---
+## [TABLEAU - HR DASHBOARD](https://public.tableau.com/views/HRDASHBOARD_17026762587930/HomeDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+"As a data analyst, I led the development of a Tableau project aimed at unraveling intricate Human Resources insights. The dynamic dashboard not only provides a bird's-eye view of company-wide data, including departmental structures, job roles, and gender diversity, but also extends to granular details. I meticulously organized a user-friendly list of employees under each department, offering a concise yet comprehensive summary of the employees working under each manager. The interactive design allows users to click on specific employees, unveiling detailed profiles with key information. This project underscores my commitment to simplifying complex data, presenting it in an accessible and visually appealing manner for a broader audience."
+
+[Link to Tableau Visualisation](https://public.tableau.com/views/HRDASHBOARD_17026762587930/HomeDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+---
 
 ## [Python & Tableau - London Airbnb Analysis ](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb.ipynb)
 
