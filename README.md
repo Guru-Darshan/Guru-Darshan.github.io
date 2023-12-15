@@ -70,15 +70,21 @@ Embarking on a dynamic dashboard project, I meticulously curated a comprehensive
 
 ### [Download Excel File](https://github.com/Guru-Darshan/guru-darshan.github.io/raw/207d4680f86b054a3caeeb9dab730f911c4fceba/s4216964_Dashboard.xlsx)
 
-
+---
 
 ### [Python Analysis - HotelBooking_Analysis](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/HotelBooking_Analysis.ipynb)
 "I spearheaded a captivating data analysis project focused on hotel data, utilizing Python and Jupyter Notebooks to unravel meaningful insights. The project commenced with meticulous data cleaning, involving the identification and removal of duplicate rows, as well as filtering out invalid entries. Through manipulation techniques. [See more...](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/HotelBooking_Analysis.ipynb)
 
 [Link to Jupyter Notebook](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/HotelBooking_Analysis.ipynb)
 
+---
 
+## [TABLEAU - HR DASHBOARD](https://public.tableau.com/views/HRDASHBOARD_17026762587930/HomeDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+"As a data analyst, I led the development of a Tableau project aimed at unraveling intricate Human Resources insights. The dynamic dashboard not only provides a bird's-eye view of company-wide data, including departmental structures, job roles, and gender diversity, but also extends to granular details. I meticulously organized [See more...](Excel.md)
 
+[Link to Tableau Visualisation](https://public.tableau.com/views/HRDASHBOARD_17026762587930/HomeDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+---
 ### [Python & Tableau - London Airbnb Analysis ](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb.ipynb)
 In my latest project, I delved into the intricate world of Airbnb rentals in the vibrant city of London. Leveraging Python, I executed a meticulous analysis, including the strategic splitting of data columns to extract additional insights. String cleaning operations played a pivotal role in preparing the data for scrutiny. The data [See more...](https://github.com/Guru-Darshan/guru-darshan.github.io/blob/main/London_airbnb.ipynb)
 
